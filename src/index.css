@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body {
+  background-color: #f3f4f6; /* Un gris claro para estilo catálogo */
+  color: #1f2937;
+}
